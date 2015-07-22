@@ -1,6 +1,6 @@
 #sig {text-align:center; width=600px; height=200px;}
 #sig .img {float:left;width=100%;}
-#text {width:600px}
+#text {width:600px;font-family: 'Amatic SC', cursive;}
 .flash1 {position:relative;color:#fff;
 	-webkit-animation: flash cubic-bezier(1,0,1,1) 4s infinite;
 	animation: flash cubic-bezier(1,0,1,1) 4s infinite;
