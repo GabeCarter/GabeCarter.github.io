@@ -1,19 +1,19 @@
 #sig {text-align:center; width=600px; height=200px;}
 #sig .img {float:left;width=100%;}
 #text {width:600px;font-family: 'Amatic SC', cursive;}
-.flash1 {position:relative;color:#fff;
+.flash1 {position:absolute;color:#fff;
 	-webkit-animation: flash cubic-bezier(1,0,1,1) 4s infinite;
 	animation: flash cubic-bezier(1,0,1,1) 4s infinite;
 }
-.flash2{position:relative;color:#fff;
+.flash2{position:absolute;color:#fff;
 	-webkit-animation: flash cubic-bezier(1,0,1,1) infinite;
 	animation: flash cubic-bezier(1,0,1,1) 5s infinite;
 }
-.flash3{position:relative;color:#fff;
+.flash3{position:absolute;color:#fff;
 	-webkit-animation: flash cubic-bezier(1,0,1,1) 6s infinite;
 	animation: flash cubic-bezier(1,0,1,1) 6s infinite;
 }
-.flash4{position:relative;color:#fff;
+.flash4{position:absolute;color:#fff;
 	-webkit-animation: flash cubic-bezier(1,0,1,1) 7s infinite;
 	animation: flash cubic-bezier(1,0,1,1) 7s infinite;
 }
